@@ -1,0 +1,9 @@
+{
+  "name": "@raisiqueira/angular-component",
+  "description": "Test my first Angular Component on NPM",
+  "version": "0.0.2",
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0"
+  }
+}
